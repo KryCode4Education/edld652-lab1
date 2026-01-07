@@ -1,0 +1,16 @@
+---
+title: "Learning Log"
+output: html_document
+date: "2026-01-07"
+---
+
+```{r}
+#| include: false
+library(knitr)
+```
+
+Today we reviewed how to:
+
+-   create, clone, and fork a GitHub repository
+-   commit and review changes pushed to GitHub
+-   fork another repository
