@@ -1,2 +1,3 @@
-# edld652-lab1
-Lab 1 Repo
+# EDLD 652 - Lab 1
+
+Lab 1 repository created to satisfy the requirements of Lab 1.
